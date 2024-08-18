@@ -1,1 +1,1 @@
-Recreating https://timestamp-microservice.freecodecamp.rocks
+Miniature project from FCC course.
